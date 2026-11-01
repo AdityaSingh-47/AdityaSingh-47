@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hey there! 👋 I'm Aditya<br><br>🚀 I'm currently working on building web applications and improving my MERN stack development skills.<br><br>🤝 I'm looking to collaborate on interesting web development and open-source projects.<br><br>🛠️ I'm looking for help with backend development, system design, and building real-world projects.<br><br>🌱 I'm currently learning MongoDB, Express.js, Node.js, and strengthening my React.js skills.<br><br>💬 Ask me about JavaScript, React.js, Java, DSA, and web development.<br><br>⚡ Fun fact: I enjoy turning ideas into functional projects and learning something new with every line of code!
+Hey there! 👋 I'm Aditya<br><br>🚀 I'm currently working on building web applications and improving my MERN stack development skills.<br><br>🤝 I'm looking to collaborate on interesting web development and open-source projects.<br><br>🛠️ I'm looking for help with backend development, system design, and building real-world projects.<br><br>🌱 I'm currently learning MongoDB, Express.js, Node.js, and strengthening my React.js skills.<br><br>💬 Ask me about JavaScript, React.js, Java, DSA, and web development.<br><br>⚡ Fun fact: I enjoy turning ideas into functional projects and learning something new with every line of code!
 
 
 ## 🌐 Socials:
